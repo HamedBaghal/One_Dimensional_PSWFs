@@ -1,5 +1,5 @@
 #  One Dimensional Prolate Spheroidal Wave Functions (PSWFs)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5651760.svg)](https://doi.org/10.5281/zenodo.5651760)
 
 This is the repository containing the implementation of one-dimensional PSWFs [1] in different platforms; Julia, Maple, Mathematica, Matlab, Python, and sagemath.
 
