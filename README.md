@@ -6,3 +6,12 @@ This is the repository containing the implementation of one-dimensional PSWFs [1
 **References:**
 
 [1] J. P. Boyd, Algorithm 840: computation of grid points, quadrature weights and derivatives for spectral element methods using prolate spheroidal wave functions—prolate elements, ACM Transactions on Mathematical Software (TOMS), 31 (2005), pp. 149–165.
+
+If you use this code you can cite my thesis
+
+@phdthesis{ghaffari2022higher,
+	title={Higher-dimensional Prolate Spheroidal Wave Functions},
+	author={Baghal Ghaffari, Hamed},
+	year={2022},
+	school={The University of Newcastle}
+}
